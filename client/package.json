@@ -1,0 +1,30 @@
+{
+  "name": "store-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "history": "^4.6.1",
+    "material-ui": "^0.18.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "react-redux-firebase": "^1.5.0-beta.2",
+    "react-router": "^2.7.0",
+    "redux": "^3.6.0",
+    "redux-auth": "0.0.5-beta5",
+    "redux-logger": "^3.0.6",
+    "semantic-ui-react": "^0.68.5",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "proxy": "http://localhost:5000/"
+  }
+}

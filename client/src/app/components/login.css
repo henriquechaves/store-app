@@ -1,0 +1,10 @@
+.loginContainer{
+  background:rgba(211,211,211, 0.8);
+}
+
+.loginSegment{
+  width: 350px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 25%);
+}
