@@ -51,31 +51,31 @@ Basicamente o mesmo componente de adicionar produto, porem ele recebe as informa
 O design das telas e dos componentes foi feito quase que na totalidade com a biblioteca Semantic UI React, pois além de ser uma biblioteca que te fornece componentes fragmentáveis, reutilizaveis e de boa usabilidade(seguindo o conceito de desenvolvimento com React), ela acelera o desenvolvimento da aplicação te deixando isento da preocupação em estilização com CSS próprio(com isso podemos focar mais no fluxo de dados e na qualidade de código).
 
 
-**Usuarios**  
+**Usuarios**
 
-- Afiliado  
-Usuario: usuarioafiliado@hotmart.com.br  
-Senha: usuarioafiliado123  
+- Afiliado
+Usuario: usuarioafiliado@hotmart.com.br
+Senha: usuarioafiliado123
 
-- Produtor  
-Usuario: usuarioprodutor@hotmart.com.br  
-Senha: usuarioprodutor123  
+- Produtor
+Usuario: usuarioprodutor@hotmart.com.br
+Senha: usuarioprodutor123
 
-**Instalação**  
+**Instalação**
 
 ```
-  git clone  
-  cd client  
-  npm i  
-  npm start  
-```  
+  git clone
+  cd client
+  npm i
+  npm start
+```
 
 ou para rodar em produção  
 
 ```
-  git clone  
-  cd client  
-  npm i  
+  git clone
+  cd client
+  npm i
   npm run eject  
   npm run build  
 ````
